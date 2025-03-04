@@ -101,9 +101,13 @@ written 104 lines into filtered.log
 ## Exercises
 
 - [Exercise 1](./exercise1.md): A Markdown file with additional elements like images, links, and lists.
+- [Exercise 2](./exercise2.md): A Markdown file with usage of the Git commands.
 
 
 ## Reference
-[//]: # (These are reference links used in the program) 
-   [Make a README](http://www.Makeareadme.com)
+[//]: # (These are reference links used in the program)
+[Make a README](http://www.Makeareadme.com)
 
+## Information about Author
+[Link to GitHub Profilpage](https://github.com/LiyuWu1976/msd24_wu_liyu.git)\
+[Link to School](https://www.fh-joanneum.at/)
