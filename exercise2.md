@@ -23,23 +23,23 @@ This is an example Markdown file with the usage of Git commands.
 ## Screenshots for git commands
 
 ### git config
-![config name](/git%20config.jpg)
-![config branch](/git%20config%20branch.jpg)
+![config name](image/git%20config.jpg)
+![config branch](image/git%20config%20branch.jpg)
 
 ### git add
-![git add](/git%20add.jpg)
+![git add](image/git%20add.jpg)
 
 ### git clone
-![git clone](/git%20clone.jpg)
+![git clone](image/git%20clone.jpg)
 
 ### git commit
-![git commit](/git%20commit.jpg)
+![git commit](image/git%20commit.jpg)
 
 ### git status
-![git status](/git%20status.jpg)
+![git status](image/git%20status.jpg)
 
 ### git log
-![git log](/git%20log.jpg)
+![git log](image/git%20log.jpg)
 
 
 ## Internal Link

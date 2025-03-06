@@ -10,7 +10,7 @@ This is an example Markdown file with additional elements like images, links, an
 
 Here is an image of the project structure:
 
-![project structure](./structure.jpg)
+![project structure](image/structure.jpg)
 
 ### 2. Links
 

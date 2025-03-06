@@ -28,7 +28,7 @@ Additionally, there is a `bonus` implementation that allows the program to be ca
 1. Clone the Repository:
 ```
 bash
-git clone https://github.com/your-username/log-filter.git
+git clone https://github.com/LiyuWu1976/log-filter.git
 cd log-filter
 ```
 2. Compile the Java Program:
