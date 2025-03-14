@@ -1,8 +1,3 @@
----
-header-includes:
-  - \usepackage{hyperref}
----
-
 # Log-filter
 ## Overview
 
