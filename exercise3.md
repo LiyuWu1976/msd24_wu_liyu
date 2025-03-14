@@ -26,19 +26,33 @@ git pull origin main
 >
 
 
-### 4. Implement the Java Calculator Class
-### 5 Configure and Build the Project with Maven
-### 6 Run the Project
-### 7 Document and Submit the Work
+### 4. Implement the Java Calculator Class, git add, git commit
+
+
+### 5. Implement the Java Main Class, git add, git commit
+
+### 6. Configure and Build the Project with Maven
+* Screenshot for maven compile: 
+![maven compile successfully](./src/main/resources/images/ex3_2.png)
+
+
+### 7. Run the Project
+* Screenshot for maven exec:
+![maven exec successfully](./src/main/resources/images/ex3_3.png)
+
+
+
+### 8. Document and Submit the Work
 
 * Command for project-structure: 
 > bash
 > tree /F > project-structure.txt
 
 * Screenshot for project-structure: 
-![project-structure](./src/test/resources/image/ex3_1.png)
+![project-structure](./src/main/resources/images/ex3_1.png)
 
 
-### 8. Internal Link
+
+## Internal Link
 Go back to the [README](./README.md).
 
