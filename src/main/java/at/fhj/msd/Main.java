@@ -7,5 +7,7 @@ public class Main{
         System.out.println(c1.minus(6.9,1.5));
         System.out.println(c1.multiply(2,5.0));
         System.out.println(c1.divide(30,5));
+
+        System.out.println("Wu Liyu");
     }
 }
