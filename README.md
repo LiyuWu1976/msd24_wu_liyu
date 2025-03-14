@@ -102,7 +102,7 @@ written 104 lines into filtered.log
 
 - [Exercise 1](./exercise1.md): A Markdown file with additional elements like images, links, and lists.
 - [Exercise 2](./exercise2.md): A Markdown file with usage of the Git commands.
-
+- [Exercise 3](./exercise3.md): a brief step-by-step guide to complete Exercise 3.
 
 ## Reference
 [//]: # (These are reference links used in the program)
