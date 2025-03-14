@@ -20,9 +20,11 @@ I use Visual Studio Code to create a new Maven Project.
 Here is the link for the [guildline](https://git-iit.fh-joanneum.at/iit-prog/java2/exercises/-/tree/main/00_maven?ref_type=heads)
 
 ### 3. Git Initialize, Set Up und Pull existing changes
->git init  
-git remote add origin https://github.com/LiyuWu1976/msd24_wu_liyu.git
-git pull origin main
+> git init  
+
+> git remote add origin https://github.com/LiyuWu1976/msd24_wu_liyu.git
+
+> git pull origin main
 >
 
 
@@ -47,8 +49,10 @@ git pull origin main
 * Command for project-structure: 
 > bash
 > tree /F > project-structure.txt
+/n
 
 * Screenshot for project-structure: 
+
 ![project-structure](./src/main/resources/images/ex3_1.png)
 
 
