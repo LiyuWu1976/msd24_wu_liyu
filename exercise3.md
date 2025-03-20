@@ -46,11 +46,6 @@ Here is the link for the [guildline](https://git-iit.fh-joanneum.at/iit-prog/jav
 
 ### 8. Document and Submit the Work
 
-* Command for project-structure: 
-> bash
-> tree /F > project-structure.txt
-/n
-
 * Screenshot for project-structure: 
 
 ![project-structure](./src/main/resources/images/ex3_1.png)
