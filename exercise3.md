@@ -35,12 +35,12 @@ Here is the link for the [guildline](https://git-iit.fh-joanneum.at/iit-prog/jav
 
 ### 6. Configure and Build the Project with Maven
 * Screenshot for maven compile: 
-![maven compile successfully](./src/main/resources/images/ex3_2.png)
+![maven compile successfully](resources/images/ex3_2.png)
 
 
 ### 7. Run the Project
 * Screenshot for maven exec:
-![maven exec successfully](./src/main/resources/images/ex3_3.png)
+![maven exec successfully](resources/images/ex3_3.png)
 
 
 
@@ -48,7 +48,7 @@ Here is the link for the [guildline](https://git-iit.fh-joanneum.at/iit-prog/jav
 
 * Screenshot for project-structure: 
 
-![project-structure](./src/main/resources/images/ex3_1.png)
+![project-structure](resources/images/ex3_1.png)
 
 
 
