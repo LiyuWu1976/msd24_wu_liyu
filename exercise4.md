@@ -28,10 +28,11 @@ Here describes which test cases are specifically used in Exercise 4.
 ![run Tests with Coverage](resources/images/ex4_1.png)
 
 
-### 2. run Tests WITHOUT correct implementation of the factorial method.
+### 2. run Tests without correct implementation of the factorial method
 ![without correct implementation of the factorial method](resources/images/ex4_2.png)
 
-
+### 3. run Tests after correct implementation of the factorial method
+![after correct implementation of the factorial method](resources/images/ex4_3.png)
 
 
 ## Internal Link

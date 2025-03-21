@@ -74,9 +74,19 @@ public class CalculatorTest {
     }  
 
     @Test
-    public void testFactorial() {
-        assertEquals(120, calc.factorial(5)); // Test schlägt fehl, weil die Methode noch nicht existiert
-        }
+    public void testFactorialNormalValues() {
+        assertEquals(120, calc.factorial(5)); 
+    }
+
+    @Test
+    public void testFactorialWithZero() {
+        assertEquals(1, calc.factorial(0)); 
+    }
+
+    @Test
+    public void testFactorialWithNegative() {
+        assertEquals(0, calc.factorial(-5)); 
+    }
 }
 
 
