@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 public class CalculatorTest {
     private Calculator calc;
     @BeforeEach
-    void setup() {
+    public void setup() {
         calc = new Calculator();
     }
 
@@ -72,6 +72,11 @@ public class CalculatorTest {
     public void testDivideWithNegative() {
         assertEquals(-3.0, calc.divide(6, -2));
     }  
+
+    @Test
+    public void testFactorial() {
+        assertEquals(120, calc.factorial(5)); // Test schlägt fehl, weil die Methode noch nicht existiert
+        }
 }
 
 
