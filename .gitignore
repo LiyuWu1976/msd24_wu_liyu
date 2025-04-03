@@ -1,4 +1,4 @@
 *.html
 *.pdf
-*.class
+*.log
 target/*
