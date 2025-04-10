@@ -1,0 +1,11 @@
+<project name="My Calculator Project">
+  <body>
+    <menu name="Documentation">
+      <item name="good_style.md" href="D:/Java/calculator/calculator/src/site/markdown/good_style.md"/>
+      <item name="Project Info" href="project-info.html"/>
+      <item name="Javadoc" href="apidocs/index.html"/>
+      <item name="Test Report" href="surefire-report.html"/>
+      <item name="Coverage Report" href="jacoco/index.html"/>
+    </menu>
+  </body>
+</project>

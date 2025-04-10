@@ -64,6 +64,11 @@ public class Calculator{
         return number1/number2;
     }
 
+    /**
+     * factorial function.
+     * @param n number
+     * @return factorial of n
+     */
     public int factorial(int n) {     
         if (n < 0){
             return 0;

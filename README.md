@@ -100,6 +100,7 @@ written 104 lines into filtered.log
 - [Exercise 3](./exercise3.md): A Markdown file with brief step-by-step guide to complete Exercise 3.
 - [Exercise 4](./exercise4.md): A Markdown file with test cases which are specifically used in Exercise 4.
 - [Exercise 5](./exercise5.md): A Markdown file with brief information about the integration of the logging library Apache log4j version 2 into calculator project.
+- [Exercise 6](./exercise6.md): for Maven Site details.
 - [log4j2.xml.template](./src/main/resources/log4j2.xml.template): Template as a starting point for the colleagues.
 
 ## Reference
