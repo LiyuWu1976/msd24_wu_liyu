@@ -1,11 +1,16 @@
 package at.fhj.msd;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class CalculatorTest {
     private Calculator calc;
+    private static final Logger logger = LogManager.getLogger(CalculatorTest.class);
+
     @BeforeEach
     public void setup() {
         calc = new Calculator();
@@ -64,8 +69,11 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testDivideWithZero() throws ArithmeticException {        
-        calc.divide(10, 0);
+    public void testDivideWithZero() {         
+        ArithmeticException e = assertThrows(ArithmeticException.class, () -> {
+            calc.divide(10, 0);
+        });        
+        logger.error("Capture an error for dividing with 0：", e);
     }
 
     @Test
