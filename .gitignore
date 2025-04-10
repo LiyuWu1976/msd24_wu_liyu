@@ -1,7 +1,8 @@
 *.html
 *.pdf
-target/*
+*.class
+/target/
+/.idea/
 .vscode/*
-logs/
 logs/*.log
 src/main/resources/log4j2.xml
