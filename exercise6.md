@@ -25,11 +25,22 @@ The site.xml file is used for the project's documentation website (generated wit
 > 4. Internationalization (multilingual websites)
 
 
- holds project metadata (name, URL, developers), plugins, dependencies
-
 ## Important configs
-- Markdown support via `doxia-module-markdown`
-- Link to README and exercise6.md in site
+- Developer information configured in pom.xml
+````
+<name>calculator</name>
+<url>https://github.com/LiyuWu1976/msd24_wu_liyu.git</url>
+<description>A simple calculator project for MSD course</description>
+<developers>
+    <developer>
+      ...
+    </developer>
+</developers>
+<scm>...</scm>
+````
+
+
+
 
 ## Internal Link
 Go back to the [README](./README.md).
